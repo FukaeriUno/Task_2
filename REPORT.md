@@ -5,7 +5,7 @@
 На тестирование затрачено: 2 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Номера карт, относящихся к American Express (AMEX) не проходят валидацию](https://github.com/FukaeriUno/Task_2/issues/1)
+* [Номера карт, относящихся к платежным системам American Express (AMEX) и Diners Club не проходят валидацию](https://github.com/FukaeriUno/Task_2/issues/1)
 
 ## Описание процесса тестирования
 
